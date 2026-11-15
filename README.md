@@ -39,7 +39,7 @@ Verify all files against the SHA-256 values below. All versions and their values
 
 | File | SHA-256 |
 |---|---|
-| `agamawallet-v.0.3.7.exe` | 61894239c9c5262e38d817caf1fd3f1a04b6670144b5bd1ea8b77edcf02d2efd |
+| `agamawallet-v.0.3.7.exe` | 809da8fdf1faa35dd277d030ab7e997a577e43d404c2e4d2559f9510f3a4c409 |
 | `agamawallet-v.0.3.7.dmg` | 17155db486d9621e19b84be27c4815d7f5c3fc2471c74474f3b261d1e59a6a2c |
 | `agamawallet-v.0.3.7.zip` | 904ca06a22e4a10369445eb5aed60ed0614583a69ec4484c15c59d70d255fb62 |
 
